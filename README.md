@@ -1,6 +1,7 @@
 # RevaturePointSystemBackend
 ## Project Description
 This is a Spring API Java backend for a Revature Point System application. Associates can log in and see their Revature points and prizes.  They can compare their points to other associates on the leaderboard.  They can also redeem their points for prizes.  Trainers can login and view associates by batch, give associates revature points, and create new prizes.  Users can also update their accounts.
+https://revaturepoints.herokuapp.com/
 ## Technologies Used
 * Java
 * Spring
