@@ -1,0 +1,24 @@
+19-08-2021 15:16:43 INFO  getEmployeePrizes(int):18 - Set dev.group3.services.EmployeeServiceImpl.getEmployeePrizes(int) attempted
+19-08-2021 15:16:43 INFO  getEmployeePrizes(int):22 - with args: 
+19-08-2021 15:16:43 INFO  getEmployeePrizes(int):24 - 1
+19-08-2021 15:16:43 INFO  getEmployeePrizes(int):26 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+19-08-2021 15:26:52 INFO  createPrize(Prize):18 - Prize dev.group3.services.PrizeServiceImpl.createPrize(Prize) attempted
+19-08-2021 15:26:52 INFO  createPrize(Prize):22 - with args: 
+19-08-2021 15:26:52 INFO  createPrize(Prize):24 - Prize{prizeId=0, name='Ford Mustang', cost=1000000, description='A brand new car for one hard working associate!', imgURL='www.imageLocation.com'}
+19-08-2021 15:26:52 INFO  createPrize(Prize):26 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+19-08-2021 15:26:52 INFO  getPrizeById(int):18 - Prize dev.group3.services.PrizeServiceImpl.getPrizeById(int) attempted
+19-08-2021 15:26:52 INFO  getPrizeById(int):22 - with args: 
+19-08-2021 15:26:52 INFO  getPrizeById(int):24 - 0
+19-08-2021 15:26:52 INFO  getPrizeById(int):26 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+19-08-2021 15:26:52 INFO  getPrizeById(int):18 - Prize dev.group3.services.PrizeServiceImpl.getPrizeById(int) attempted
+19-08-2021 15:26:52 INFO  getPrizeById(int):22 - with args: 
+19-08-2021 15:26:52 INFO  getPrizeById(int):24 - 0
+19-08-2021 15:26:52 INFO  getPrizeById(int):26 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+19-08-2021 15:26:53 INFO  deletePrizeById(int):18 - boolean dev.group3.services.PrizeServiceImpl.deletePrizeById(int) attempted
+19-08-2021 15:26:53 INFO  deletePrizeById(int):22 - with args: 
+19-08-2021 15:26:53 INFO  deletePrizeById(int):24 - 0
+19-08-2021 15:26:53 INFO  deletePrizeById(int):26 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+19-08-2021 15:26:53 INFO  getPrizeById(int):18 - Prize dev.group3.services.PrizeServiceImpl.getPrizeById(int) attempted
+19-08-2021 15:26:53 INFO  getPrizeById(int):22 - with args: 
+19-08-2021 15:26:53 INFO  getPrizeById(int):24 - 2147483647
+19-08-2021 15:26:53 INFO  getPrizeById(int):26 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
